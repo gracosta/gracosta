@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá sou Grazi Costa, desenvolvedora Front-End.</h1>
+  <h1>Olá sou Grazi Costa. Desenvolvedora Front-End.</h1>
   
 <div align="center">
   <a href="https://github.com/gracosta">
