@@ -1,4 +1,4 @@
-**<h2>Front-end Developer | Product Designer**</h2>
+**<h2>Product Design | UX Designer | UI Designer | UX Research **</h2>
 
 <div style="display: inline_block "><br>
   <img align="center" alt="Grazi-CSS" height="30" width="40"
